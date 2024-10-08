@@ -61,6 +61,13 @@ After completing the configuration, perform a self-assessment of the server's se
 - Consider whether an attacker would have a difficult time intruding into the server
 - Suggest any additional security improvements that could be made
 
+### 6. Preparation for Review
+Prepare a list of potential improvements or alternative approaches to your solution. This list will be discussed during the review of your exercise results. Consider:
+- Areas where you made trade-offs and why
+- Security measures you would add given more time or resources
+- How you might scale this solution for a larger environment
+- Any challenges you faced and how you might approach them differently in the future
+
 ## Evaluation Criteria
 - Code quality and organization
 - Adherence to Ansible best practices
@@ -68,4 +75,5 @@ After completing the configuration, perform a self-assessment of the server's se
 - Creativity in solving problems and implementing security features
 - Depth and breadth of security tool usage
 - Thoroughness of security self-assessment
+- Quality and insight of prepared improvement list
 - (If applicable) Proper use of CI/CD practices
